@@ -12,7 +12,7 @@ This is a project built with NextJs. In this project, countries details are bein
 
 # Live Version
 
-()
+https://wrld.vercel.app/
 
 ## Contributing
 
